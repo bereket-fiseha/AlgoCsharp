@@ -1,0 +1,16 @@
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\AlgorithmAndDS.exe
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\AlgorithmAndDS.deps.json
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\AlgorithmAndDS.runtimeconfig.json
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\AlgorithmAndDS.runtimeconfig.dev.json
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\AlgorithmAndDS.dll
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\AlgorithmAndDS.pdb
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.csproj.AssemblyReference.cache
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.AssemblyInfoInputs.cache
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.AssemblyInfo.cs
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.csproj.CoreCompileInputs.cache
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.dll
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\ref\AlgorithmAndDS.dll
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.pdb
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.genruntimeconfig.cache
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\ref\AlgorithmAndDS.dll
