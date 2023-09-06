@@ -1,4 +1,8 @@
-﻿using System;
+﻿using AlgorithmAndDS.Array;
+using AlgorithmAndDS.LeetCode.Array;
+using AlgorithmAndDS.StepsImp;
+using System;
+using System.Linq;
 
 namespace AlgorithmAndDS
 {
@@ -6,9 +10,10 @@ namespace AlgorithmAndDS
     {
         static void Main(string[] args)
         {
-
-
-            Console.WriteLine("Hello World!");
+            var algo = new Steps();
+          int val=  RomanToInt.Covert("LVIII");
+            int val2 = RomanToInt.Covert("MCMXCIV");
+            Console.WriteLine($"1st{val} 2ns{val2}");
         }
     }
 }

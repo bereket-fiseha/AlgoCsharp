@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EiaXGxj3gpQ/dNoJvTs5P6re0ZWkksX2cA4eewkLUnZI42ypc6coII18xhFRYlNgbNOmOqdskWVdBIFQiYiKFQ==",
+  "dgSpecHash": "eI0EfuBmotNVqCgB7tcPZWZmpd+bADmezTxt/3aPpKbNXmY+5xNzMp6VzFXuAL+RJmwWLXB3Vyu4F4mlPxXvAQ==",
   "success": true,
   "projectFilePath": "C:\\Files\\Exp\\.Net Core\\AlgoDataStructCamp\\src\\AlgorithmAndDS\\AlgorithmAndDS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\codig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

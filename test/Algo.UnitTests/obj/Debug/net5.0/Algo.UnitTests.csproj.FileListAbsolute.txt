@@ -104,4 +104,4 @@ C:\Files\Exp\.Net Core\AlgoDataStructCamp\test\Algo.UnitTests\bin\Debug\net5.0\A
 C:\Files\Exp\.Net Core\AlgoDataStructCamp\test\Algo.UnitTests\bin\Debug\net5.0\AlgorithmAndDS.exe
 C:\Files\Exp\.Net Core\AlgoDataStructCamp\test\Algo.UnitTests\bin\Debug\net5.0\AlgorithmAndDS.dll
 C:\Files\Exp\.Net Core\AlgoDataStructCamp\test\Algo.UnitTests\bin\Debug\net5.0\AlgorithmAndDS.pdb
-C:\Files\Exp\.Net Core\AlgoDataStructCamp\test\Algo.UnitTests\bin\Debug\net5.0\ref\Algo.UnitTests.dll
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\test\Algo.UnitTests\obj\Debug\net5.0\refint\Algo.UnitTests.dll

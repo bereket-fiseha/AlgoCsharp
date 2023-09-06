@@ -13,4 +13,4 @@ C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\Al
 C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\ref\AlgorithmAndDS.dll
 C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.pdb
 C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\AlgorithmAndDS.genruntimeconfig.cache
-C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\bin\Debug\net5.0\ref\AlgorithmAndDS.dll
+C:\Files\Exp\.Net Core\AlgoDataStructCamp\src\AlgorithmAndDS\obj\Debug\net5.0\refint\AlgorithmAndDS.dll
